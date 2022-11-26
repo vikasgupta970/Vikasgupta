@@ -8,7 +8,7 @@ Hi there, I'm Vikas Gupta 👋
 </h3>
 
 <h2 align="center">
-Technical Team Member of @CodingNinjas-LPU | Competitive Programmer | Web development & Python Programming Enthusiast!
+Competitive Programmer | Web development , Python Programming Enthusiast! and Android App developing Enthusiasist
 </h2>
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
