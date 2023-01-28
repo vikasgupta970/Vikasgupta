@@ -22,16 +22,15 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - My old projects
 - Enhancing Competitive Programming Skills
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- Mobile Blogging App (Working ...)
 - My CSS skill
 
 ## 🌱 I'm currently learning
 
 - Javascript
-- Firebase
+- React JS
 - React Context API
 - Styled Components  
-- Python
 
 ## 💼 Technical Skills
 
